@@ -1,3 +1,4 @@
+#+OPTIONS: ':t date:nil num:nil toc:nil tags:nil 
 * Generalized automatic execution in a single frame
 
 [[https://stable.melpa.org/#/fullframe][file:http://stable.melpa.org/packages/fullframe-badge.svg]]
