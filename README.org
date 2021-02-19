@@ -86,3 +86,7 @@ You have two possibilities:
 - Revise the customization list ~fullframe/generic-quit-commands~ and
   set ~fullframe/advice-generic-quit-commands~ to ~t~.
 - mix both 
+** Contributing
+
+My emacs packages are all part of the [[https://sr.ht/~tomterl/tomtel/][tomtel]] project.  Report bugs and
+ideas by [[https://todo.sr.ht/~tomterl/tomtel][opening tickets]] or [[https://lists.sr.ht/~tomterl/tomtel][writing to the mailing list]].
